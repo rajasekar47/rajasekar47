@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajasekar47
+- 👋 Hi, I’m @rajasekar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me rajaarchi8316@gmail.com
